@@ -1,0 +1,8 @@
+indexcss,logincss-->index.jsp
+addusercss-->prehr.jsp, inner.jsp, inner1.jsp
+formvalidationcss-->formvalidation.jsp
+hr.css-->hr.jsp
+
+--------------------------------------------------------------------------------------------------------------------
+JSP page:
+gallery and acheivements will enable the users to see the company gallery which can be seen by all and it will be in login page. 
